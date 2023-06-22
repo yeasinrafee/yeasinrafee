@@ -1,3 +1,4 @@
+![logo](https://github.com/yeasinrafee/yeasinrafee/blob/main/20221220_0306351.gif)
 ### Hi there 👋, I'm Yeasin Rafee
 #### Full Stack Developer
 Hey! My name is Rafee and I am a full stack developer with a focus on JavaScript and C++. I have experience building and maintaining web applications using JavaScript, as well as solving problems and creating efficient solutions using C++.
